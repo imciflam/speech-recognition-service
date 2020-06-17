@@ -1,2 +1,3 @@
 # speech-recognition-service
-recognizing basic commands
+
+Recognizing basic commands using CNN, RNN, CRNN in different environments.
